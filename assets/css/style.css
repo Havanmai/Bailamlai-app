@@ -206,7 +206,7 @@ a:hover {
 a:hover{
     color:#d5d6dc !important;
 }
-.sum-btn {
+.sum-btn, .question-text {
    
     cursor: pointer;
 }
